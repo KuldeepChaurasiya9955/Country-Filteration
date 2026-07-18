@@ -1,7 +1,7 @@
 import Header from "./components/Header"
 import './style/index.css'
 import Searchbar from "./components/Searchbar"
-import Selectmenu from "./components/Selectmenu"
+import Selectmenu from "./components/SelectMenu"
 import CountriesList from "./components/CountriesList"
 import { useState } from "react"
 
